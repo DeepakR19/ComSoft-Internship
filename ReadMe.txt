@@ -8,7 +8,6 @@
 This will load the database
 8.Now start the website by typing in browser :localhost/dbms/index.php
 
-By Gary Mendonca 
-Enjoy!!!!
+
 
                     *************************************
